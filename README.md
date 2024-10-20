@@ -4,7 +4,11 @@
 
 The objective of this project is to stabilize and control the position of a ball on a beam. This involves designing a suitable controller and model for the system. The project includes plant modeling, DC motor modeling, controller design, and testing both in Simulink and on hardware.
 
-https://github.com/ameer-alwadiya/Ball-and-Beam-Balance-Control-System/assets/127532790/c3fe885b-00c9-4214-ae2b-99b8005e0620
+<div align="center">
+
+  [Video](https://github.com/ameer-alwadiya/Ball-and-Beam-Balance-Control-System/assets/127532790/c3fe885b-00c9-4214-ae2b-99b8005e0620)
+
+</div>
 <!-- Continue with the rest of your README content -->
 
 ## Files Included
